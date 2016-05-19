@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/addMenu"
+        android:title="연락처 추가"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item
+        android:id="@+id/addFromAdress"
+        android:title="전화번호부"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item
+        android:id="@+id/preferMenu"
+        android:title="환경설정"
+       />
+</menu>

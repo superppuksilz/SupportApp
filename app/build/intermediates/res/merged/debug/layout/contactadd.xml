@@ -1,0 +1,57 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/TableRow01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="이름:" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/TableRow02"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="전화번호:" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/editAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="" />
+    </TableRow>
+   
+	<Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact"
+        android:id="@+id/listButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</TableLayout>
+
