@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mymenu.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\menu\\mymenu.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/menu/mymenu.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/menu/mymenu.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mymenu.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\menu\\mymenu.xml"
     }
 ]

@@ -6,14 +6,19 @@ package com.example.ex07_09;
 
 
 public class SensorData {
-    final static int VECTOR_SIZE = 2;
+    final static int VECTOR_SIZE = 8;
 
     double[] currrentVector = {0, 0, 0, 0, 0, 0};
     double[][] standardVector = {
             {0, 6, 7, 0, 0, 0},
-            //{0, 6, 7, 400, 0, 0},
-            {5, 0, 6, 0, 0, 0},
-            //{5, 0, 6, 1000, 0, 0}
+            {0, 6, 7, 0, 200, 0},
+            {0, 6, 7, 400, 200, 0},
+            {0, 6, 7, 400, 0, 0},
+            {5, 0, 7, 0, 0, 0},
+            {5, 0, 7, 0, 0, 1000},
+            {5, 0, 7, 1200, 0, 0},
+            {5, 0, 7, 1200, 0, 1000}
+
     };
 
     public SensorData(){
@@ -95,13 +100,13 @@ public class SensorData {
         double qi = 0, q = 0, i = 0;
 
         for(int it = 0; it < 6; it++){
-        	System.out.println("+++" + currrentVector[it] + "____" +  stdVector[it]);
+        	//System.out.println("+++" + currrentVector[it] + "____" +  stdVector[it]);
             qi += (currrentVector[it] * stdVector[it])+1;
             q += currrentVector[it] * currrentVector[it];
             i += stdVector[it] * stdVector[it];
-            System.out.println("+++++++" + qi + "____" + q + "_____" + i);
+            //System.out.println("+++++++" + qi + "____" + q + "_____" + i);
         }
-        System.out.println("q"+q+"//qi "+qi+"//i"+i);
+        //System.out.println("q"+q+"//qi "+qi+"//i"+i);
         res = qi / (Math.sqrt(q) * Math.sqrt(i));
         
         return res;
@@ -118,13 +123,13 @@ public class SensorData {
         boolean check = false;
         for(int i = 0; i < VECTOR_SIZE; i++) {
             double d = cosineSim(standardVector[i]);
-            System.out.println(d);
-            if (d < 3.0e-4){
+            //System.out.println(d);
+            if (d < 5.0e-4){
                 check = true;
                 break;
             }
         }
-        System.out.println("-------------------");
+        //System.out.println("-------------------");
         return check;
     }
 

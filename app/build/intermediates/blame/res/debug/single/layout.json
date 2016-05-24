@@ -1,22 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contactadd.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\contactadd.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showsms.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\activity_showsms.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\detail.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contactadd.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\contactadd.xml"
     },
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/layout/contactadd.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/layout/contactadd.xml"
     },
     {
-        "merged": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
-        "source": "C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\list_row.xml"
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/layout/activity_showsms.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/layout/activity_showsms.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/build/intermediates/res/merged/debug/layout/detail.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/src/main/res/layout/detail.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showsms.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\activity_showsms.xml"
+    },
+    {
+        "merged": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "/home/kironec/AndroidStudioProjects/SupportApp/app/C:\\Users\\Lotus\\Desktop\\app\\test04\\app\\src\\main\\res\\layout\\list_row.xml"
     }
 ]
